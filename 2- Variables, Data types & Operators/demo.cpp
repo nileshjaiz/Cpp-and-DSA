@@ -7,7 +7,17 @@ int main()
     cout << age << endl;
 
     char ch = 'a';
-    cout << ch;
+    cout << ch << endl;
+
+    int age1;
+    cout << "enter your age:";
+    cin >> age1;
+    cout << "your age is:" << age1 << endl;
+
+    cout << (3 < 5) << endl;
+    cout << (3 != 3) << endl;
+
+    cout << !(3 == 3) << endl;
 
     return 0;
 }
