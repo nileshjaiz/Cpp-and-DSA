@@ -1,4 +1,4 @@
-// Loops in Array
+// Min and Max in Array
 
 #include <iostream>
 using namespace std;
