@@ -1,4 +1,4 @@
-// WAP to calculate sum & product of all numbers in an array.
+// WAP to calculate sum & product of all numbers in array.
 
 #include <iostream>
 using namespace std;
