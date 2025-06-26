@@ -1,4 +1,4 @@
-// understanding pass by reference
+// understanding pass-by-reference
 
 #include <iostream>
 using namespace std;
