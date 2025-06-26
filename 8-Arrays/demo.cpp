@@ -1,4 +1,4 @@
-// Syntax of an array
+// Syntax of a array
 
 #include <iostream>
 using namespace std;
