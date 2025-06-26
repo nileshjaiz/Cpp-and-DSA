@@ -1,4 +1,4 @@
-// Reverse an array usign 2 pointer approach.
+// Reverse an array usign 2 pointer approach
 
 #include <iostream>
 using namespace std;
