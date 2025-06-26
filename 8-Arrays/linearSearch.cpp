@@ -1,4 +1,4 @@
-// Understanding liner search
+// Understanding liner search in array
 
 // WAP to find target = 8 in an array = [4,2,7,8,1,2,5] and print its index, and if the target value is not present return -1.
 
