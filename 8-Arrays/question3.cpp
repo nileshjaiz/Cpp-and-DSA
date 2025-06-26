@@ -1,4 +1,4 @@
-// WAP to swap max & min number of an array
+// WAP to swap max & min number of an array.
 
 #include <iostream>
 using namespace std;
