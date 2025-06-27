@@ -1,4 +1,4 @@
-// Return pair in sorted array with target sum
+// Return pair in sorted array with target sum using Brute Force Approach
 
 #include <iostream>
 #include <vector>
@@ -16,7 +16,8 @@ int main()
         {
             if (arr[i] + arr[j] == target)
             {
-                // int ans = arr.push_back(i), arr.push_back(j);   //wrong
+                arr.push_back(i);
+                arr.push_back(j); // wrong
                 cout << arr[i] << "  " << arr[j];
             }
         }
